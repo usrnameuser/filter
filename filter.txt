@@ -1,0 +1,1 @@
+tabletka.by##main.page__content:nth-child(5) > div.box:nth-child(2)
